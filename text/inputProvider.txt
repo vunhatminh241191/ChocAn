@@ -1,0 +1,37 @@
+4
+MoonStruck Chocolate
+P10000001
+124 NW Burnside
+Portland
+OR
+91247
+0
+0
+0
+Skip
+P10000003
+1122 nw that
+Thi
+BB
+97225
+0
+0
+0
+Deedle Deedle
+P10000004
+45468 SW the street
+Moodie ville
+GL
+55568
+0
+0
+0
+Weedle
+P10000005
+Deedle
+Doodle
+DA
+97885
+0
+0
+0

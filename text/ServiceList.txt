@@ -1,0 +1,22 @@
+7
+S10000
+Eat 1 Chocolate
+35
+S10001
+Diet Fast
+150
+S10002
+Eat Vegetable
+8000
+S10003
+Peanut Butter Face Wash
+54
+S10004
+Run 5 Miles
+25
+S10005
+Hot Tub Therapy
+15
+S10006
+Jumping Jacks
+32

@@ -1,0 +1,56 @@
+4
+Minh
+Vu
+Nhat
+M10000000
+False
+5035167739
+5125 SW 4th Ave
+Portland
+OR
+97201
+minvu@pdx.edu
+1
+Khoi
+1
+Diet Fast
+null
+Frederick
+Gurtz
+Jacob
+M10000001
+True
+5555555555
+Mystreet street
+Burmingham
+ND
+56659
+this@here
+0
+0
+Jim
+k
+Jackson
+M10000002
+True
+4564874564
+555 NW t
+dee d
+Lo
+45787
+Us@we.le
+0
+0
+Tee
+Torence
+T
+M10000003
+True
+5578896755
+4576584545
+Mingo
+AK
+97889
+USS@tootoo.com
+0
+0
